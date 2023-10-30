@@ -1,8 +1,8 @@
 # Titulo y Descripción
 
-Mi Página Web
+Javier Ariza
 
-Como el título lo indica, en esta Mi Página Web, es una especie de portafólio en el cual describo las diferentes tecnologías que manejo y algunos proyectos que hemos realizado.
+Este título, el cual es mi nombre, es una especie de portafólio en el cual describo las diferentes tecnologías que manejo y algunos proyectos que hemos realizado.
 
 ## Deployment
 
